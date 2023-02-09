@@ -1,4 +1,8 @@
-### Hello There! Sou Arthur Gabriel
+### Hello There! Meu nome é Arthur Gabriel
+
+<div style = "display: inline-block"><br>
+ <img align="center" alt= "Arthur-pic" width="250" src= "https://pbs.twimg.com/profile_images/1623748685199802369/rEvz-OWX_400x400.jpg">
+ </div>
 
 
 • 💻 Desenvolvedor Front-End Jr.
