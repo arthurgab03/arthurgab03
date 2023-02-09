@@ -9,7 +9,9 @@
  
  ##
  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003)](https://github.com/Arthur-Gabriel-Silva2003/github-readme-stats)
+ 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003&show_icons=true&theme=transparent)
 
 
 • 💻 Desenvolvedor Front-End Jr.
