@@ -12,7 +12,7 @@
  
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Gabriel-Silva2003&layout=compact)](https://github.com/Arthur-Gabriel-Silva2003/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Gabriel-Silva2003&theme=transparent)
 
 
 • 💻 Desenvolvedor Front-End Jr.
