@@ -11,9 +11,7 @@
  
  
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Gabriel-Silva2003&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Gabriel-Silva2003&layout=compact&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Gabriel-Silva2003&layout=compact&theme=transparent)
 
 
 • 💻 Desenvolvedor Front-End Jr.
