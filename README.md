@@ -3,11 +3,13 @@
 <div style= "display: inline-block"><br>
   <img align="center" alt="Arthur-pic" height="250" style= "border-radius: 20px" src="https://pbs.twimg.com/profile_images/1623748685199802369/rEvz-OWX_400x400.jpg">
  </div> 
+ 
+ 
+
+ 
  ##
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003)](https://github.com/Arthur-Gabriel-Silva2003/github-readme-stats)
- 
- ##
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003)](https://github.com/Arthur-Gabriel-Silva2003/github-readme-stats)
 
 
 • 💻 Desenvolvedor Front-End Jr.
