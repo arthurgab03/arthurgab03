@@ -1,6 +1,6 @@
 <div align= "center">
   <h1> 
-    Hello There! Meu nome é Arthur Gabriel 
+    Hello There! Meu nome é Arthur Gabriel 👨🏻‍💻
   </h1> 
 </div>
 
@@ -19,11 +19,10 @@
   
   
   
-  <div align "center"> 
-  <h2> 
-  Sobre mim
-  </h2>
-    
+ 
+ 
+  ### Sobre mim
+ 
 
 
 • 💻 Desenvolvedor Front-End Jr.
@@ -55,5 +54,10 @@
 </div>
   
  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align= "center">
+    <p> Dá uma olhadinha no <a href="https://github.com/anuraghazra/github-readme-stats">repositório original </a> que disponibiliza o GitHub Stats :) 
+    </p>
+  </div>
 
 
