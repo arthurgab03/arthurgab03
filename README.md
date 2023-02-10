@@ -1,4 +1,8 @@
-### Hello There! Meu nome é Arthur Gabriel
+<div align= "center">
+  <h1> 
+    Hello There! Meu nome é Arthur Gabriel 
+  </h1> 
+</div>
 
 <div style= "display: inline-block"><br>
   <img align="center" alt="Arthur-pic" height="250" style= "border-radius: 20px" src="https://pbs.twimg.com/profile_images/1623748685199802369/rEvz-OWX_400x400.jpg">
