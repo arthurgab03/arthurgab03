@@ -12,6 +12,9 @@
  
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Gabriel-Silva2003&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Gabriel-Silva2003&layout=compact&theme=transparent)
+  
+  
+  ### Sobre mim
 
 
 • 💻 Desenvolvedor Front-End Jr.
@@ -22,7 +25,7 @@
 
 • 😄 Pronomes: ele/dele
 
-##
+## Tecnologias 
 
 
 
@@ -32,7 +35,7 @@
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  ##
+  ## Minhas redes 
  
 <div> 
   <a href="https://twitter.com/ArthurDev03" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
