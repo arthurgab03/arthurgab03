@@ -53,7 +53,6 @@
   
 </div>
   
- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
   <div align= "center">
     <p> Dá uma olhadinha no <a href="https://github.com/anuraghazra/github-readme-stats">repositório original </a> que disponibiliza o GitHub Stats :) 
