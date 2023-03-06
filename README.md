@@ -1,6 +1,6 @@
 <div align= "center">
   <h1> 
-    Hello There! Meu nome é Arthur Gabriel 👨🏻‍💻
+    Hello There! Eu sou Arthur Gabriel 👨🏻‍💻
   </h1> 
 </div>
 
