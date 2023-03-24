@@ -27,7 +27,9 @@
 
 • 💻 Desenvolvedor Front-End Jr.
 
-• 📘 Estou estudando Bootstrap, JQuery, Angular e NodeJS
+• 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - FICR (1/5)
+
+• 📘 Aprimorando meus conhecimentos em Bootstrap, JQuery, Angular e NodeJS
 
 • 👨🏻‍💻 Procurando pela primeira oportunidade de trabalho como Desenvolvedor Front-End Jr
 
