@@ -25,13 +25,13 @@
  
 
 
-• 💻 Desenvolvedor Front-End Jr.
+• 💻 Estudando programação Front-End.
 
-• 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - FICR (1/5)
+• 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - FICR (2/5)
 
-• 📘 Aprimorando meus conhecimentos em Bootstrap, JQuery, Angular e NodeJS
+• 📘 Aprimorando meus conhecimentos em React, TypeScript, Angular e Bootstrap
 
-• 👨🏻‍💻 Procurando pela primeira oportunidade de trabalho como Desenvolvedor Front-End Jr
+• 👨🏻‍💻 Trabalhando como Jovem Aprendiz em tecnologia na CSP Tech
 
 • 😄 Pronomes: ele/dele
 </div>
