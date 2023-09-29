@@ -23,15 +23,15 @@
  
   ### Sobre mim
  
-• 👨🏻‍💻 Trabalhando como Jovem Aprendiz em tecnologia na CSP Tech
+• 👨🏻‍💻 Trabalhando como Jovem Aprendiz em tecnologia na CSP Tech.
 
 • 💻 Estudando programação Front-End.
 
-• 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - FICR (2/5)
+• 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - FICR (2/5).
 
-• 📘 Aprimorando meus conhecimentos em React, TypeScript, Angular e Bootstrap
+• 📘 Aprimorando meus conhecimentos em React, TypeScript, Angular e Bootstrap.
 
-• 😄 Pronomes: ele/dele
+• 😄 Pronomes: ele/dele.
 </div>
 
 ## Tecnologias 
