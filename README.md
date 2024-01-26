@@ -27,9 +27,9 @@
 
 • 💻 Estudando programação Front-End.
 
-• 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - FICR (2/5).
+• 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - FICR (3/5).
 
-• 📘 Aprimorando meus conhecimentos em React, TypeScript, Angular e Bootstrap.
+• 📘 Aprimorando meus conhecimentos em TypeScript
 
 • 😄 Pronomes: ele/dele.
 </div>
